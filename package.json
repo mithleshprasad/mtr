@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@uiw/react-codemirror": "^4.23.6",
+    "axios": "^1.7.8",
+    "codemirror": "^6.0.1",
+    "react-router-dom": "^7.0.1"
+  }
+}

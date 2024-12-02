@@ -1,0 +1,25 @@
+.App {
+  /* text-align: center; */
+  background-color: #a8bde6;
+  min-height: 100vh;
+  color: white;
+  padding: 20px;
+}
+
+.App-header {
+  max-width: 800px;
+  margin: auto;
+}
+
+.output-container {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.output {
+  background-color: #1e1e1e;
+  padding: 10px;
+  border-radius: 5px;
+  color: #39ff14;
+  font-family: 'Courier New', Courier, monospace;
+}
